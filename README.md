@@ -16,8 +16,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
 
 ## Contatos
-[![Email](https://img.shields.io/badge/Email-B497D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesisamara254@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A71C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isalvesb)
+<a href="mailto:alvesisamara25@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-795690?style=flat-square&labelColor=795690&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/isalvesb/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8a71c9?style=flat-square&labelColor=8a71c9&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+
+</a>
+<a href="https://www.behance.net/isaalves" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-391b49?style=flat-square&labelColor=391b49&logo=behance" alt="Behance Badge"/>
+</a>
+
+
+
 
 
 
