@@ -27,12 +27,8 @@
   <img src="https://img.shields.io/badge/Behance-391b49?style=flat-square&labelColor=391b49&logo=behance" alt="Behance Badge"/>
 </a>
 
+---
 
-
-
-
-
-## 
 <div>
 <a href="https://github.com/isalvesb">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalvesb&layout=compact&langs_count=7&theme=dracula"/>
