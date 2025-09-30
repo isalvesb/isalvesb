@@ -6,7 +6,7 @@
 🎨 Apaixonada por front-end, design e experiências visuais <br>
 📸 Com background em fotografia e tratamento de imagem <br>
 🚀 Em transição de carreira para tecnologia <br>
-🌱 Aprendendo JavaScript, Python e UX/UI <br>
+🌱 Aprendendo JavaScript, Python entre outras tecnologias. <br>
 
 
 ## Ferramentas e Tecnologias 
