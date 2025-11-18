@@ -24,14 +24,14 @@
 
 ## Contatos
 <a href="mailto:alvesisamara25@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-795690?style=flat-square&labelColor=795690&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-795690?style=flat-rounded&labelColor=795690&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/isalvesb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8a71c9?style=flat-square&labelColor=8a71c9&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-8a71c9?style=flat-rounded&labelColor=8a71c9&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 
 </a>
 <a href="https://www.behance.net/isaalves" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-391b49?style=flat-square&labelColor=391b49&logo=behance" alt="Behance Badge"/>
+  <img src="https://img.shields.io/badge/Behance-391b49?style=flat-rounded&labelColor=391b49&logo=behance" alt="Behance Badge"/>
 </a>
 
 ---
