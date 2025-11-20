@@ -2,11 +2,11 @@
 <img width="200" height="200" alt="octocat-1752706774730" src="https://github.com/user-attachments/assets/5bce1813-f4d4-474e-b779-96eb3a503df4" />
 
 
-💻 Estudante de Web Design na FIAP <br>
-🎨 Apaixonada por front-end, design e experiências visuais <br>
-📸 Com background em fotografia e tratamento de imagem <br>
-🚀 Em transição de carreira para tecnologia <br>
-🌱 Aprendendo JavaScript, Python entre outras tecnologias. <br>
+💻 Estudante de Web Design na FIAP  
+🎨 Apaixonada por front-end, design e experiências visuais  
+📸 Com background em fotografia e tratamento de imagem  
+🚀 Em transição de carreira para tecnologia  
+🌱 Aprendendo JavaScript, Python entre outras tecnologias.  
 
 
 ## Ferramentas e Tecnologias 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Gmail-795690?style=flat-rounded&labelColor=795690&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/isalvesb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8a71c9?style=flat-rounded&labelColor=8a71c9&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  <img src="https://img.shields.io/badge/Linkedin-8a71c9?style=flat-rounded&labelColor=8a71c9&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 
 </a>
 <a href="https://www.behance.net/isaalves" target="_blank">
