@@ -31,7 +31,7 @@
 
 </a>
 <a href="https://www.behance.net/isaalves" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-391b49?style=flat-rounded&labelColor=391b49&logo=behance" alt="Behance Badge"/>
+  <img src="https://img.shields.io/badge/Behance-C9A0DC?style=flat-rounded&labelColor=C9A0DC&logo=behance" alt="Behance Badge"/>
 </a>
 
 ---
