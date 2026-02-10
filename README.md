@@ -8,17 +8,29 @@
 🚀 Em transição de carreira para tecnologia  
 🌱 Aprendendo JavaScript, React entre outras tecnologias.  
 
----
+
+
+
+
 
 ## ⚒️ Ferramentas e Tecnologias 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
----
+
+
+
+
+
+
 
 ## 👩‍💻 Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> 
 
----
+
+
+
+
+
 
 ## 📬 Contatos
 <a href="mailto:alvesisamara25@gmail.com">
@@ -32,13 +44,18 @@
   <img src="https://img.shields.io/badge/Behance-C9A0DC?style=flat-rounded&labelColor=C9A0DC&logo=behance" alt="Behance Badge"/>
 </a>
 
----
 
-<div>
-<a href="https://github.com/isalvesb">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalvesb&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=isalvesb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<div align="center">
+  <br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isalvesb&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=C792EA&icon_color=C792EA&text_color=EBDFFF&bg_color=0D1117" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalvesb&layout=compact&langs_count=7&theme=midnight-purple&title_color=C792EA&text_color=EBDFFF&bg_color=0D1117"/>
+
 </div>
+
+
           
           
           
