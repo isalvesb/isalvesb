@@ -1,74 +1,119 @@
-## Olá, eu sou a Isa👋 
-<img width="200" height="200" alt="octocat-1752706774730" src="https://github.com/user-attachments/assets/5bce1813-f4d4-474e-b779-96eb3a503df4" />
+<!-- TOPO COM ANIMAÇÃO DIGITANDO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3000&pause=800&color=a18cd1&center=true&vCenter=true&width=600&lines=Front-end+Developer+%26+UI+Designer;Criando+interfaces+bonitas+e+funcionais;HTML+%7C+CSS+%7C+UX+%7C+UI;Seja+bem-vindo(a)+ao+meu+GitHub+✨" />
+</p>
 
+---
+
+## 🎨 Sobre mim
 
 💻 Estudante de Web Design na FIAP  
-🎨 Apaixonada por front-end, design e experiências visuais  
 📸 Com background em fotografia e tratamento de imagem  
 🚀 Em transição de carreira para tecnologia  
-🌱 Aprendendo JavaScript, React entre outras tecnologias.  
+✨ Apaixonada por UX/UI e experiências digitais    
+🌱 Aprendendo JavaScript, React entre outras tecnologias. 
 
+---
 
+## 🧰 Tech & Design Skills
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode" />
+</p>
 
+---
 
+## 💜📌 Projetos em destaque
 
-## ⚒️ Ferramentas e Tecnologias 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<table>
+<tr>
 
+<td width="50%">
 
+### 🎨 Portfólio
+Interface com foco em UI, responsividade e experiência do usuário.
 
+🔗 **Código:**  
+https://github.com/isalvesb/projeto-portfolio  
 
+🚀 **Projeto online:**  
+[Ver funcionando](LINK_DO_DEPLOY_AQUI)
 
+</td>
 
+<td width="50%">
 
+### ⚽ SportsX
+Conceito de produto digital com navegação e organização visual.
 
-## 👩‍💻 Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> 
+🔗 **Código:**  
+https://github.com/isalvesb/sportsx-enterprise-challenge  
 
+🚀 **Projeto online:**  
+[Ver funcionando](LINK_DO_DEPLOY_AQUI)
 
+</td>
 
+</tr>
+<tr>
 
+<td width="50%">
 
+### 🎮 Iara Games
+Projeto visual com construção de layout e identidade.
 
+🔗 **Código:**  
+https://github.com/isalvesb/iara-games  
 
-## 📬 Contatos
-<a href="mailto:alvesisamara25@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-795690?style=flat-rounded&labelColor=795690&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/isalvesb/" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-8a71c9?style=flat-rounded&labelColor=8a71c9&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+🚀 **Projeto online:**  
+[Ver funcionando](LINK_DO_DEPLOY_AQUI)
 
-</a>
-<a href="https://www.behance.net/isaalves" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-C9A0DC?style=flat-rounded&labelColor=C9A0DC&logo=behance" alt="Behance Badge"/>
-</a>
+</td>
 
+<td width="50%">
 
+### 🧠 Formulário JS
+Primeira aplicação construída sozinha com lógica e validação.
 
-<div align="center">
-  <br>
+🔗 **Código:**  
+https://github.com/isalvesb/formulario-de-cadastro  
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isalvesb&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&title_color=C792EA&icon_color=C792EA&text_color=EBDFFF&bg_color=0D1117" />
+🚀 **Projeto online:**  
+[Ver funcionando](LINK_DO_DEPLOY_AQUI)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalvesb&layout=compact&langs_count=7&theme=midnight-purple&title_color=C792EA&text_color=EBDFFF&bg_color=0D1117"/>
+</td>
 
-</div>
+</tr>
+</table>
 
+---
+
+## 🎀 UI Designer Vibes
+
+<p>
+  <img src="https://img.shields.io/badge/UI%20Design-Figma-a18cd1?style=flat-rounded&logo=figma"/>
+  <img src="https://img.shields.io/badge/UX%20Thinking-Research-8a71c9?style=flat-rounded"/>
+  <img src="https://img.shields.io/badge/Front--end-Creative-764ba2?style=flat-rounded"/>
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isalvesb&theme=midnight-purple&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
 </p>
 
 
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/isalvesb/   
+📧 Email: alvesisamara254@gmail.com
+
+---
+
+<p align="center">
+  Feito com 💜 + código + café
+</p>
