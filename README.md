@@ -56,6 +56,11 @@
 </div>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isalvesb&theme=midnight-purple&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
+</p>
+
+
           
           
           
