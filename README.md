@@ -5,7 +5,7 @@
 
 ---
 
-## 🎨 Sobre mim
+## 👩🏽‍🦱 Sobre mim
 
 💻 Estudante de Web Design na FIAP  
 📸 Com background em fotografia e tratamento de imagem  
@@ -23,14 +23,14 @@
 
 ---
 
-## 💜📌 Projetos em destaque
+## 📌 Projetos em destaque
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🎨 Portfólio
+### 💜 Portfólio
 Interface com foco em UI, responsividade e experiência do usuário.
 
 🔗 **Código:**  
@@ -75,7 +75,7 @@ https://github.com/isalvesb/iara-games
 
 <td width="50%">
 
-### 🧠 Formulário de Cadastro
+### 📝 Formulário de Cadastro
 Primeira aplicação construída sozinha com lógica e validação.
 
 🔗 **Código:**  
@@ -92,7 +92,7 @@ https://github.com/isalvesb/formulario-de-cadastro
 
 ---
 
-## 🎀 UI Designer Vibes
+## 🎨 UI Designer Vibes
 
 <p>
   <img src="https://img.shields.io/badge/UI%20Design-Figma-a18cd1?style=flat-rounded&logo=figma"/>
