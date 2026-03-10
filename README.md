@@ -18,7 +18,7 @@
 ## 🧰 Tech & Design Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,figma,git,github,vscode" />
 </p>
 
 ---
