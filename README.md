@@ -120,7 +120,7 @@ https://github.com/isalvesb/formulario-de-cadastro
 </a>
 
 <a href="https://www.behance.net/isaalves">
-<img height="95" width="95" src="https://img.shields.io/badge/Behance-2D1C42?style=flat-rounded&logo=behance&logoColor=white"/>
+<img height="90" width="90" src="https://img.shields.io/badge/Behance-2D1C42?style=flat-rounded&logo=behance&logoColor=white"/>
 </a>
 
 <a href="mailto:alvesisamara254@gmail.com">
