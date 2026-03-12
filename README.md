@@ -5,7 +5,7 @@
 
 ---
 
-## 👩🏽‍🦱 Sobre mim
+## 👩🏽‍💻 Sobre mim
 
 💻 Estudante de Web Design na FIAP  
 📸 Com background em fotografia e tratamento de imagem  
