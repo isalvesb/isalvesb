@@ -113,7 +113,7 @@ https://github.com/isalvesb/formulario-de-cadastro
 
 ## 📫 Contatos
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/isalvesb/">  
 <img height="50" width="50" src="https://img.shields.io/badge/LinkedIn-552B5B?style=flat-rounded&logo=linkedin&logoColor=white"/>  
