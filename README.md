@@ -94,7 +94,7 @@ https://github.com/isalvesb/formulario-de-cadastro
 
 ## 🎨 UI Designer Vibes
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/UI%20Design-Figma-a18cd1?style=flat-rounded&logo=figma"/>
   <img src="https://img.shields.io/badge/UX%20Thinking-Research-8a71c9?style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Front--End-Creative-764ba2?style=flat-rounded"/>
