@@ -113,8 +113,22 @@ https://github.com/isalvesb/formulario-de-cadastro
 
 ## 📫 Contatos
 
-✉️ Email: alvesisamara254@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/isalvesb/
+<p align="center">
+<a href="mailto:alvesisamara254@gmail.com">
+<img height="45" src="https://img.shields.io/badge/Gmail-A18CD1?style=flat-rounded&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/isaalves">
+<img height="45" src="https://img.shields.io/badge/Behance-8B8098?style=flat-rounded&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/isalvesb/">
+<img height="45" src="https://img.shields.io/badge/LinkedIn-735F82?style=flat-rounded&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+</p>
 
 ---
 
