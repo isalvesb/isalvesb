@@ -115,16 +115,16 @@ https://github.com/isalvesb/formulario-de-cadastro
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/isalvesb/">
-<img height="50" width="50" src="https://img.shields.io/badge/LinkedIn-552B5B?style=flat-rounded&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/isalvesb/">  
+<img height="50" width="50" src="https://img.shields.io/badge/LinkedIn-552B5B?style=flat-rounded&logo=linkedin&logoColor=white"/>  
 </a>  
 
-<a href="https://www.behance.net/isaalves">
-<img height="50" width="50" src="https://img.shields.io/badge/Behance-2D1C42?style=flat-rounded&logo=behance&logoColor=white"/>
+<a href="https://www.behance.net/isaalves">  
+<img height="50" width="50" src="https://img.shields.io/badge/Behance-2D1C42?style=flat-rounded&logo=behance&logoColor=white"/>  
 </a>  
 
-<a href="mailto:alvesisamara254@gmail.com">
-<img height="50" width="50" src="https://img.shields.io/badge/Gmail-3F303D?style=flat-rounded&logo=gmail&logoColor=white"/>
+<a href="mailto:alvesisamara254@gmail.com">  
+<img height="50" width="50" src="https://img.shields.io/badge/Gmail-3F303D?style=flat-rounded&logo=gmail&logoColor=white"/>  
 </a>
 
 </p>
