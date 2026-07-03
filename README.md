@@ -1,137 +1,103 @@
-<!-- TOPO COM ANIMAÇÃO DIGITANDO -->
+<h1 align="center">Oi, eu sou a Isa! 👋</h1>
+
+<h4 align="center">
+Criando interfaces intuitivas, acessíveis e centradas na experiência do usuário.
+</h4>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3000&pause=800&color=a18cd1&center=true&vCenter=true&width=600&lines=Front-end+Developer+%26+UI+Designer;Estudante+e+exploradora+digital;HTML+%7C+CSS+%7C+UX+%7C+UI;Seja+bem-vindo(a)+ao+meu+GitHub+✨" />
+<img src="https://img.shields.io/badge/Front--end-8A71C9?style=flat"/>
+<img src="https://img.shields.io/badge/UI%2FUX-B497D6?style=flat"/>
+<img src="https://img.shields.io/badge/FIAP-6F42C1?style=flat"/>
 </p>
 
 ---
 
 ## 👩🏽‍💻 Sobre mim
 
-💻 Estudante de Web Design na FIAP  
-📸 Com background em fotografia e tratamento de imagem  
-🚀 Em transição de carreira para tecnologia  
-✨ Apaixonada por UX/UI e experiências digitais    
-🌱 Aprendendo JavaScript, React entre outras tecnologias. 
+🌱 Aprendendo React Native e desenvolvimento mobile  
+🎓 Estudando Web Design na FIAP  
+🚀 Desenvolvendo projetos acadêmicos e pessoais  
+💜 Interessada em UX/UI, Front-end e Acessibilidade
 
 ---
 
-## 🧰 Tech & Design Skills
+## 🧰 Tecnologias e ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,figma,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,firebase,supabase,figma,git,github,vscode,photoshop" />
 </p>
 
 ---
 
-## 📌 Projetos em destaque
+## 🌟 Projetos em destaque
 
 <table>
 <tr>
 
 <td width="50%">
+  
+### ♾️ ReUse 
+  
+Aplicação mobile em React Native voltada à reutilização, doação e troca de itens, com autenticação, consumo de API e cache local. 
 
-### 💜 Portfólio
-Interface com foco em UI, responsividade e experiência do usuário.
-
-🔗 **Código:**  
-https://github.com/isalvesb/projeto-portfolio  
-
-🚀 **Projeto online:** 
-
- [![Ver Funcionando](https://img.shields.io/badge/Ver%20Funcionando-c69fd4?style=flat-rounded)](https://isalvesb.github.io/projeto-portfolio/)
+[![ReUse no GitHub](https://img.shields.io/badge/ReUse%20•%20GitHub-F7EFDE?style=flat&logo=github&logoColor=894612)](https://github.com/isalvesb/ReUse)
 
 </td>
+
 
 <td width="50%">
+  
+### 🧑‍🚀 Estelar
+  
+Estelar é uma plataforma de apoio emocional para astronautas, criada para promover bem-estar, autocuidado e conexão humana durante missões espaciais.
 
-### ⚽ SportsX
-Conceito de produto digital com navegação e organização visual.
-
-🔗 **Código:**  
-https://github.com/isalvesb/sportsx-enterprise-challenge  
-
-🚀 **Projeto online:**   
-
- [![Ver Funcionando](https://img.shields.io/badge/Ver%20Funcionando-c69fd4?style=flat-rounded)](https://sportsx-enterprise-challenge.vercel.app/)
+[![Estelar no GitHub](https://img.shields.io/badge/Estelar%20•%20GitHub-B9A7FF?style=flat&logo=github&logoColor=0A1030)](https://github.com/isalvesb/Estelar)
 
 </td>
-
 </tr>
+
 <tr>
-
 <td width="50%">
+  
+### ⚡Flui
+  
+O Flui Charge Map é uma plataforma mobile que centraliza mapas, avaliações, comodidades e informações sobre estações de recarga, auxiliando motoristas de veículos elétricos na escolha do melhor local para recarregar.
 
-### 🎮 Iara Games
-Projeto visual com construção de layout e identidade.
-
-🔗 **Código:**  
-https://github.com/isalvesb/iara-games  
-
-🚀 **Projeto online:**   
-
- [![Ver Funcionando](https://img.shields.io/badge/Ver%20Funcionando-c69fd4?style=flat-rounded)](https://guicunhasou.github.io/iara-games/)
+[![Flui no GitHub](https://img.shields.io/badge/Flui%20•%20GitHub-290252?style=flat&logo=github&logoColor=white)](https://github.com/guicunhasou/flui)
 
 </td>
 
 <td width="50%">
+  
+### 💜 Portfólio Web
+  
+Portfólio pessoal responsivo desenvolvido para apresentar meus projetos, habilidades e experiências, com interface moderna, Dark Mode e formulário integrado ao MockAPI.
 
-### 📝 Formulário de Cadastro
-Primeira aplicação construída sozinha com lógica e validação.
-
-🔗 **Código:**  
-https://github.com/isalvesb/formulario-de-cadastro  
-
-🚀 **Projeto online:**   
-
- [![Ver Funcionando](https://img.shields.io/badge/Ver%20Funcionando-c69fd4?style=flat-rounded)](https://isalvesb.github.io/formulario-de-cadastro/)
+[![Portfólio no GitHub](https://img.shields.io/badge/Portfolio%20•%20GitHub-a18cd1?style=flat&logo=github&logoColor=white)](https://github.com/isalvesb/projeto-portfolio)
+[![Website](https://img.shields.io/badge/Website-6F42C1?style=flat&logo=googlechrome&logoColor=white)](https://isalvesb.github.io/projeto-portfolio/)
 
 </td>
-
+</tr>
 </tr>
 </table>
 
 ---
 
-## 🎨 UI Designer Vibes
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UI%20Design-Figma-a18cd1?style=flat-rounded&logo=figma"/>
-  <img src="https://img.shields.io/badge/UX%20Thinking-Research-8a71c9?style=flat-rounded"/>
-  <img src="https://img.shields.io/badge/Front--End-Creative-764ba2?style=flat-rounded"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isalvesb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=isalvesb&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalvesb&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📫 Contate-me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isalvesb&theme=midnight-purple&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alvesisamara254@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isalvesb/)
 
-
----
-
-## 📫 Contatos
-
-<p align="center">
-<a href="mailto:alvesisamara254@gmail.com">
-<img height="45" src="https://img.shields.io/badge/Gmail-A18CD1?style=flat-rounded&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/isaalves">
-<img height="45" src="https://img.shields.io/badge/Behance-8B8098?style=flat-rounded&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/isalvesb/">
-<img height="45" src="https://img.shields.io/badge/LinkedIn-735F82?style=flat-rounded&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
-</p>
-
----
-
-<p align="center">
-  Feito com 💜 + 💻 + ☕
-</p>
