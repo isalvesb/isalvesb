@@ -93,10 +93,18 @@ Portfólio pessoal responsivo desenvolvido para apresentar meus projetos, habili
 
 ## 📫 Contate-me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alvesisamara254@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isalvesb/)
+<p align="center">
+  <a href="mailto:alvesisamara254@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-B497D6?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/isalvesb/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A71C9?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+    <a href="https://www.behance.net/isaalves">
+    <img src="https://img.shields.io/badge/Behance-735F82?style=flat&logo=behance&logoColor=white"/>
+  </a>
+</p> 
 
----
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/isalvesb/isalvesb/output/github-contribution-grid-snake-dark.svg"/>
