@@ -1,8 +1,8 @@
 <h1 align="center">Oi, eu sou a Isa! 👋</h1>
 
-<h4 align="center">
+<h3 align="center">
 Criando interfaces intuitivas, acessíveis e centradas na experiência do usuário.
-</h4>
+</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Front--end-8A71C9?style=flat"/>
@@ -14,8 +14,8 @@ Criando interfaces intuitivas, acessíveis e centradas na experiência do usuár
 
 ## 👩🏽‍💻 Sobre mim
 
-🌱 Aprendendo React Native e desenvolvimento mobile  
 🎓 Estudando Web Design na FIAP  
+🌱 Aprendendo React Native e desenvolvimento mobile  
 🚀 Desenvolvendo projetos acadêmicos e pessoais  
 💜 Interessada em UX/UI, Front-end e Acessibilidade
 
@@ -83,15 +83,10 @@ Portfólio pessoal responsivo desenvolvido para apresentar meus projetos, habili
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Atividade no GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isalvesb&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=isalvesb&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalvesb&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isalvesb&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A18CD1&line=B497D6&point=FFFFFF" width="100%"/>
 </p>
 
 ---
@@ -100,4 +95,10 @@ Portfólio pessoal responsivo desenvolvido para apresentar meus projetos, habili
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alvesisamara254@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isalvesb/)
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/isalvesb/isalvesb/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
