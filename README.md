@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Isa! 👋</h1>
+<h1 align="center">Olá, eu sou a Isa! 👋</h1>
 
 <h3 align="center">
 Criando interfaces intuitivas, acessíveis e centradas na experiência do usuário.
