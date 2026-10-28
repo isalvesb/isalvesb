@@ -63,7 +63,7 @@ Estelar é uma plataforma de apoio emocional para astronautas, criada para promo
   
 O Flui Charge Map é uma plataforma mobile que centraliza mapas, avaliações, comodidades e informações sobre estações de recarga, auxiliando motoristas de veículos elétricos na escolha do melhor local para recarregar.
 
-[![Flui no GitHub](https://img.shields.io/badge/Flui%20•%20GitHub-290252?style=flat&logo=github&logoColor=white)](https://github.com/guicunhasou/flui)
+[![Flui no GitHub](https://img.shields.io/badge/Flui%20•%20GitHub-290252?style=flat&logo=github&logoColor=white)](https://github.com/isalvesb/flui-charge-map-next)
 
 </td>
 
